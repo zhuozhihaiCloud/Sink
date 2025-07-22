@@ -12,15 +12,15 @@
   ],
   "keep_vars": true,
   "upload_source_maps": true,
-  "ai": {
-    "binding": "AI"
-  },
-  "analytics_engine_datasets": [
-    {
-      "binding": "ANALYTICS",
-      "dataset": "sink"
-    }
-  ],
+  //  "ai": {
+  //    "binding": "AI"
+  //  },
+  //  "analytics_engine_datasets": [
+  //    {
+  //      "binding": "ANALYTICS",
+  //      "dataset": "sink"
+  //    }
+  //  ],
   // Add this to your wrangler.jsonc
   "kv_namespaces": [
     {
